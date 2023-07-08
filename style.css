@@ -127,6 +127,13 @@ nav>ul>li>a:hover{
 
 }
 
+/* main-section */
+
+main{
+    max-width:1140px;
+    margin:0 auto;
+}
+
 /* about-section */
 
 .about{
@@ -134,5 +141,22 @@ nav>ul>li>a:hover{
     border-radius:10px;
     background-color: #FFF8F3;
     margin:130px;
+}
+.about-info-container{
+    display:flex;
+    justify-content:space-around;
+}
+.about-info{
+    text-align:center;
+    margin-right:20px;
+}
+.info-title{
+
+    margin-bottom:0px;
+    font-weight: normal;
+}
+.info-des{
+    margin-top:5px;
+    font-weight:bold;
 }
 
