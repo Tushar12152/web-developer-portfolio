@@ -159,4 +159,39 @@ main{
     margin-top:5px;
     font-weight:bold;
 }
+/* what i do section */
 
+#what{
+    padding:30px 150px;
+}
+
+.skil{
+    width:267px;
+    height:377PX;
+    background-color: #FFF;
+    border-radius: 5px;
+   box-shadow: 0px 6px 50px 0px;
+   margin-right:30px;
+}
+.skil-section{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top:40px;
+}
+.logo{
+    width: 49.926px;
+height: 40.731px;
+padding:30px;
+}
+.skil-title{
+    padding:30px
+    padding-bottom:2px;
+    margin-left:30px;
+}
+.skil-des{
+    padding:5px;
+    padding-top:0;
+    line-height:35px;
+    margin-left:30px;
+}
