@@ -195,3 +195,53 @@ padding:30px;
     line-height:35px;
     margin-left:30px;
 }
+
+/* resume-section */
+.container-box{
+    display:flex;
+    /* max-width:1500px; */
+    justify-content:space-around;
+    align-items:center;
+    /* border:1px solid black; */
+}
+.resume-section{
+    margin:150px;
+    padding:30px;
+}
+.left-side{
+    padding:50px;
+    margin-right:50px;
+}
+.right-side{
+    padding:50px;
+    margin-left:px;
+
+}
+.urd{
+    color:  #474747;
+
+font-size: 25px;
+font-weight: 700;
+line-height: normal;
+padding:5px;
+margin-bottom:0px;
+
+}
+.uh{
+    margin-top:2px;
+    color:#474747;
+
+
+}
+.up{
+color:#474747;
+line-height:15px;
+}
+
+.lsh{
+    color:  #474747;
+}
+.btn{
+    text-align: center;
+    margin-left:280px;
+}
