@@ -87,8 +87,8 @@ nav>ul>li>a:hover{
 /* header related style */
 .header{
     background-color:#FFF8F3;
-    background-image: url(images/header_bg.png);
-    background-position: bottom right;
+    background-image: url('../images/header_bg.png'),url('../images/developer.png');
+    background-position: bottom right,top left;
     /* background-image: url(images/developer.png); */
     /* background-position: top left; */
     background-repeat: no-repeat;
